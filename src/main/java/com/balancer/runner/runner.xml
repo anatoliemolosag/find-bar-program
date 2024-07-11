@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FindFakeBar">
+    <test name="GoldBarTests">
+        <classes>
+            <class name="com.balancer.tests.FindFakeGoldBarTests"/>
+        </classes>
+    </test>
+</suite>
